@@ -25,8 +25,9 @@ Django Version:
     1.9, 1.10, 1.11, 2.0
 
 Python Version:
-    2.7, 3.5 (tested); 3.4, 3.6 (assumed)
+    Tested: 2.7, 3.5
 
+    Expected: 3.4, 3.6
 
 
 Usage
